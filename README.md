@@ -42,8 +42,8 @@ I am a Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### 🔥 &nbsp; My Status
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotuananh22&layout=compact&theme=vision-friendly-dark" />
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dotuananh22&theme=dark&background=000000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhdocntt&layout=compact&theme=vision-friendly-dark" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=anhdocntt&theme=dark&background=000000" />
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotuananh22)](https://github.com/anuraghazra/github-readme-stats) -->
 
